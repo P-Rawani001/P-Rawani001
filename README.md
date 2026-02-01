@@ -19,7 +19,7 @@
 ## 🎯 About Me
 
 ```python
-class SoumenNandi:
+class PankajKumarRawani:
     def __init__(self):
         self.name = "Pankaj Kumar Rawani"
         self.role = "Software Developer"
@@ -31,7 +31,7 @@ class SoumenNandi:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = SoumenNandi()
+me = PankajKumarRawani()
 me.say_hi()
 ```
 
