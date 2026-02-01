@@ -10,7 +10,7 @@
   
   ### 🚀 A passionate developer crafting solutions from India
   
-  📧 **Email:** [soumennandi633@gmail.com](mailto:pankajrawani1230.2@gmail.com) | 💼 Open for collaborations & projects
+  📧 **Email:** [pankajrawani1230.2@gmail.com](mailto:pankajrawani1230.2@gmail.com) | 💼 Open for collaborations & projects
   
 </div>
 
